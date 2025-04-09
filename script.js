@@ -4,6 +4,6 @@ document.querySelector("form").addEventListener("submit", function(event) {
     
     if (!name || !email) {
         event.preventDefault();
-        alert("Tous les champs sont obligatoires !");
+        alert("Tous les champs sont obligatoiress !");
     }
 });
